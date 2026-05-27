@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majravi26.hemanthlal.com/sitemap.xml
